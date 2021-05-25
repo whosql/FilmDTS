@@ -1,2 +1,2 @@
 # FilmDTS
- Filmlerin bu bu filmlere yapılan yorum ve puanlamaları gösteren bir proje geliştirdim.
+ Filmlere yorum yapılan ve puanlamalama yapılan bir platform oluşturmaya çalıştım. 
